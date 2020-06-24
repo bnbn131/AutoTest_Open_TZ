@@ -1,4 +1,3 @@
-# AutoTest_Open_TZ
 
 1. API тестирование.
 
